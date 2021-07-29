@@ -1,0 +1,16 @@
+.board {
+  line-height: 0;
+  margin-top: 20px;
+}
+
+.cell {
+  display: inline-block;
+  margin: 0;
+  width: 45px;
+  height: 45px;
+  border: 1px solid black;
+}
+
+.hovered {
+  background-color: #03A8F4;
+}

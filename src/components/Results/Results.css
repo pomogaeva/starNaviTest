@@ -1,0 +1,14 @@
+.results div {
+  background: #FBF8E3;
+  padding: 10px;
+  margin: 10px 0;
+  color: #8E7341;
+  font-weight: bold;
+  font-size: 0.8em;
+  border: 1px solid #e9e5c4;
+  border-radius: 4px;
+}
+
+h2 {
+  margin: 0;
+}

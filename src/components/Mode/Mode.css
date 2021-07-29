@@ -1,0 +1,16 @@
+select {
+  padding:3px;
+  border: 1.5px solid black;
+  min-width:150px;
+}
+
+button {
+  background : #0075D8;
+  outline:none;
+  color:white;
+  border:none;
+  border-radius:4px;
+  padding:5px;
+  width:70px;
+  margin-left:10px;
+}
